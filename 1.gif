@@ -2,7 +2,7 @@
   "name": "test drivers #1",
   "description": "A collection of 10,000 test items enabled by ERC404, an experimental token standard pioneered by Pandora.",
   "external_url": "https://google.com",
-  "image": "ipfs://bafybeiclqcx3kdoauwelxgcny25wauci6qqonfigid6y2wrv4ep4gji3gq/GREEN.PNG",
+  "image": ""
   "attributes": [
     {
       "trait_type": "Color",
